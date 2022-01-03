@@ -1,0 +1,60 @@
+.new-expense-addDiscount__controls {
+    display: flex;
+    background-color: transparent;
+    padding-top: 15px;
+    border-radius: 1pc;
+    white-space: nowrap;
+    font-family: Ties New Roman, Times, serif;
+ }
+ 
+ .new-expense-addDiscount__control label {
+   font-weight: lighter;
+   margin-bottom: 0.5rem;
+   display: block;
+   height: 30%;
+   font-size: 20px;
+   font-weight: bolder; 
+   background-color:skyblue;
+   padding-bottom: 10px;
+   font-family: Ties New Roman, Times, serif;
+   color:purple;
+ }
+   .tdStyleAddDiscount{
+    align-items: center;
+    border: 1px solid lightslategrey;
+    padding: 5px;
+    font-family: Ties New Roman, Times, serif;
+    font-weight: bolder;
+    background-color: lightcyan;
+  } 
+
+  .trStyleAddDiscount{
+    background-color:mediumpurple;
+  } 
+
+  .tableCenterAddDiscount{
+    padding-top: 25px;
+    margin-left: auto; 
+    margin-right: auto;
+    align-items: center;
+    font-family: Ties New Roman, Times, serif;
+    width: 50%;
+  }
+
+  .tdStyleAddDiscountDiv{
+    align-items: center;
+    border: 1px solid lightslategrey;
+    padding: 5px;
+    font-family: Ties New Roman, Times, serif;
+    font-weight: bolder;
+    background-color:lightyellow;
+  } 
+
+  .new-expense-addDiscount__actions {
+    font-size: 10px;
+    border-radius: 0pt;
+    padding-top: 10px;
+    font-weight: bold;
+    background-color:orange;
+    font-family: Ties New Roman, Times, serif;
+  }

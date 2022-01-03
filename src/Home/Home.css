@@ -1,0 +1,59 @@
+  .button {
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight:bold;
+    cursor: pointer;
+    display: inline-flex;
+    justify-content: space-between;
+    padding-right: 100px;
+    padding-bottom: 20px; 
+    background-color: transparent;
+    font-family: Ties New Roman, Times, serif;
+  }
+
+  .button_selected {
+    align-items: center;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight:bold;
+    cursor: pointer;
+    display: inline-flex;
+    justify-content: space-between;
+    padding-right: 100px;
+    padding-bottom: 20px; 
+    background-color: darkblue;
+    color:yellowgreen;
+    font-family: Ties New Roman, Times, serif;
+  }
+
+
+  .bs-example{
+     border: none;
+    color:salmon;
+    padding-left: 40px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    cursor: pointer; 
+    background-color: transparent;
+    font-weight: bold;
+  }
+
+  .button:hover {
+    background-color:darkblue !important;
+    color: yellowgreen;
+ }
+
+ .App-link {
+  padding-right: 100px;
+  text-align: right;
+  font-size: 20px;
+  font-weight: bold;
+}
+  .bs-example-align {
+    align-items: baseline;
+  }

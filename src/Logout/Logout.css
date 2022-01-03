@@ -1,0 +1,16 @@
+  .bs-example{
+    border: none;
+    color:black;               
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    font-style: bold;
+    font-weight: 30; 
+    background-image: none;
+    background-color:transparent;
+  }
+
+  .bs-example:hover {
+    background-color: green !important;
+    color: #FFF;
+ }

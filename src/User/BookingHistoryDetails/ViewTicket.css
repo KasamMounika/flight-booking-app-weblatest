@@ -1,0 +1,62 @@
+.new-expense-ViewTicket__controls {
+    display: flex;
+    background-color: transparent;
+    padding-top: 15px;
+    border-radius: 1pc;
+    white-space: nowrap;
+    font-family: Ties New Roman, Times, serif;
+ }
+ 
+ .new-expense-ViewTicket__control label {
+   font-weight: lighter;
+   margin-bottom: 0.5rem;
+   display: block;
+   height: 30%;
+   font-size: 20px;
+   font-weight: bolder; 
+   background-color:skyblue;
+   padding-bottom: 10px;
+   font-family: Ties New Roman, Times, serif;
+   color:purple;
+ }
+   .tdStyleViewTicket{
+    align-items: center;
+    border: 1px solid lightslategrey;
+    font-family: Ties New Roman, Times, serif;
+    font-weight: bolder;
+    background-color:linen;
+    width: 20%;
+  } 
+
+  .trStyleViewTicket{
+    background-color:lightyellow;
+    border: 1px solid lightslategrey;
+    font-family: Ties New Roman, Times, serif;
+    font-weight: bolder;
+  } 
+
+  .tableCenterViewTicket{
+    padding-top: 40px;
+    padding-right:30%;
+  }
+
+  .new-expense-viewTicket__actions {
+    font-size: 15px;
+    border-radius: 0pt;
+    padding-top: 10px;
+    font-weight: bold;
+    background-color: lime;
+    font-family: Ties New Roman, Times, serif;
+  }
+
+  .padding-viewTicket_style {
+    padding-right: 300px;
+    padding-top: 20px;
+  }
+
+  .headingStyleViewTicket{
+    font-family: Ties New Roman, Times, serif;
+    font-weight: bolder;
+    padding-right:30%;
+    padding-top: 40px;
+  } 

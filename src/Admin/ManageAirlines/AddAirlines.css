@@ -1,0 +1,64 @@
+.new-expense-addAirline__controls {
+    display: flex;
+    background-color: transparent;
+    padding-top: 15px;
+    border-radius: 1pc;
+    white-space: nowrap;
+    font-family: Ties New Roman, Times, serif;
+ }
+ 
+ .new-expense-addAirline__control label {
+   font-weight: lighter;
+   margin-bottom: 0.5rem;
+   display: block;
+   height: 30%;
+   font-size: 15px;
+   font-weight: bolder; 
+   background-color:skyblue;
+   padding-bottom: 10px;
+   font-family: Ties New Roman, Times, serif;
+   color:purple;
+ }
+ 
+ .new-expense-addAirline__control input {
+   font: inherit;
+   padding: 0.5rem;
+   background-color: lightcyan;
+   font-size: 20px;
+   height: 20px;
+   width: 180px;
+   font-weight: 20px;
+ }
+ 
+ .new-expense-addAirline__actions {
+   font-size: 20px;
+   border-radius: 0pt;
+   padding-top: 10px;
+   font-weight: bold;
+   background-color: teal;
+   font-family: Ties New Roman, Times, serif;
+ }
+
+ .selectStyle{
+  height: 40px;
+  width: 140px;
+  background-color: lightcyan;
+  padding-right: 20px;
+  justify-content: space-between;
+  font-family: Ties New Roman, Times, serif;
+  font-weight: bold;
+  }
+
+   .tdStyle{
+    padding-right: 20px;
+  } 
+
+  .table.center {
+    margin-left: auto; 
+    margin-right: auto;
+    align-items: center;
+  }
+
+  .datepickerStyle {
+    font-size:10px;
+  }

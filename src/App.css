@@ -1,0 +1,56 @@
+/* .App {
+  overflow: hidden;
+} */
+
+.App-logo {
+   /*height: 40vmin;
+  pointer-events: none; */
+   background-image: url('./flight.jpg');
+  height: 96vh; 
+  width: 206vh;
+  /* Center and scale the image nicely */
+  background-position: center;
+   background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+/* .App-link {
+  padding-right: 100px;
+  text-align: right;
+  font-size: 25px;
+  font-weight: bold;
+} */
+
+.App-div {
+  padding-top: 25px;
+}
+
+.App-header {
+  background-color:lightskyblue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  font-weight: bolder;
+  color:black;
+  font-family: monospace;
+}

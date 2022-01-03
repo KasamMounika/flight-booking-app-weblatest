@@ -1,0 +1,31 @@
+  .button_adminMenu {
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight:bolder;
+    cursor: pointer;
+    display: inline-flex;
+    justify-content: space-between;
+    padding-bottom: 10px; 
+    background-color: transparent;
+    font-family: Ties New Roman, Times, serif;
+    padding-right: 100px;
+    color: brown;        
+  }
+
+  .bs-example_adminMenu{
+    border: none;
+    color:salmon;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer; 
+    background-color: transparent;
+    font-weight: bold;
+  }
+
+  .button_adminMenu:hover {
+    background-color:darkblue !important;
+    color: yellowgreen;
+ }

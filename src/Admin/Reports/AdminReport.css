@@ -1,0 +1,49 @@
+.new-expense-adminReport__controls {
+    display: flex;
+    background-color: transparent;
+    padding-top: 15px;
+    border-radius: 1pc;
+    white-space: nowrap;
+    font-family: Ties New Roman, Times, serif;
+ }
+ 
+ .new-expense-adminReport__control label {
+   font-weight: lighter;
+   margin-bottom: 0.5rem;
+   display: block;
+   height: 30%;
+   font-size: 20px;
+   font-weight: bolder; 
+   background-color:transparent;
+   padding-bottom: 3px;
+   font-family: Ties New Roman, Times, serif;
+   color:indigo;
+ }
+   .tdStyleAdminReport{
+    align-items: center;
+    border: 1px solid lightslategrey;
+    font-family: Ties New Roman, Times, serif;
+    font-weight: bolder;
+    background-color:linen;
+  } 
+
+  .trStyleAdminReport{
+    background-color:plum;
+  } 
+
+  .tableCenterAdminReport{
+    padding-top: 25px;
+    align-content: center;
+    font-family: Ties New Roman, Times, serif;
+    width: 70%;
+    height: 150px;
+  }
+
+  .new-expense-AdminReport__actions {
+    font-size: 15px;
+    border-radius: 0pt;
+    padding-top: 10px;
+    font-weight: bold;
+    background-color:palegreen;
+    font-family: Ties New Roman, Times, serif;
+  }
